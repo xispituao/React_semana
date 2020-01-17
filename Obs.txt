@@ -1,0 +1,5 @@
+Conceitos que monta o React
+// Jsx (JavaScript + XML)
+// Component: Bloco isolado de HTMl, CSS e Js, o qual não interfere no restante da aplicação
+// Propriedade: Informações que o componente Pai passa para o componente Filho
+// Estado: Informações mantidas pelo componente (Lembrar: imutabilidade)
